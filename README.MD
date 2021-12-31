@@ -1,4 +1,2 @@
-# Learn more AI and OpenCV GUI Design?
-
-Enroll in our YOLOv4 PyQt Course here : 
-https://www.augmentedstartups.com/yolov4-course
+Face Recoginiton using OpenCV and PyQt designer.
+The records are saved in an csv file (comma separated file).
